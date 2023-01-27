@@ -1,11 +1,6 @@
 
 # Intelligent Dasymetric Toolbox (Open Source)
 
-[<img src="https://enviroatlas.epa.gov/enviroatlas/interactivemap/images/logo.png"     title="EnviroAtlas" width=400 >](https://www.epa.gov/enviroatlas)
-
-## Beta
-The EnviroAtlas Intelligent Dasymetric Toolbox for Open Source GIS is currently in development. The most recent release for ESRI ArcMap 10.3 is available at [https://www.epa.gov/enviroatlas/dasymetric-toolbox](https://www.epa.gov/enviroatlas/dasymetric-toolbox).
-
 ## Overview
 Dasymetric mapping is a geospatial technique that uses information such as land cover types to more accurately distribute data within selected boundaries like census blocks.
 
